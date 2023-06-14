@@ -9,9 +9,9 @@ price INT NOT NULL
 );
 INSERT sales (position, price)
 VALUES
-	("position_1",80),
-	("position_2",90),
-	("position_3",100),
+    ("position_1",80),
+    ("position_2",90),
+    ("position_3",100),
     ("position_4",120),
     ("position_5",140),
     ("position_6",150),
